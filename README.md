@@ -1,9 +1,6 @@
 # Not_McD
 A GUI System for taking order from customers and menu creation by employees for a restaurant ( Not_McD )
 
-
-Requirements:
-        Name: tk
-        Version: 0.1.0
-        Summary: TensorKit is a deep learning helper between Python and C++.
-        Home-page: https://github.com/atranitell/TensorKit
+<br/>
+<i><b>OnTheTimeline:<b><i>
+Made as a school project in 11th Standard (2022).
